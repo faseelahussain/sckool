@@ -23,13 +23,13 @@
     "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
     "react-firebase-hooks": "^3.0.4",
-    "react-slick": "^0.28.1",
+    "react-slick": "^0.30.2",
     "slick-carousel": "^1.8.1",
     "swiper": "^11.1.9"
   },
   "overrides": {
-    "next-auth": {
-      "next": "13.0.0"
+    "react-slick": {
+      "react": "^18.3.1"
     }
   }
 }
